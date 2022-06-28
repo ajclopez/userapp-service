@@ -64,10 +64,10 @@ Obtener token de acceso:
 ## Diagramas
 
 Diagrama de secuencia API Rest:
-![](https://github.com/ajclopez/userapp-service/tree/main/images/api-sequence-diagram.png)
 
+![](./images/api-sequence-diagram.png)
 
 Relación de base de datos:
-![](https://github.com/ajclopez/userapp-service/tree/main/images/entity-relationship-diagram.png)
 
+![](./images/entity-relationship-diagram.png)
 
